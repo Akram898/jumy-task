@@ -1,0 +1,40 @@
+{
+    
+        "theme_color" : "#000000",
+        "background_color" : "#423f3c",
+        "display" : "standalone",
+        "scope" : "/",
+        "start_url" : "/",
+        "name" : "jumy-test",
+        "short_name" : "jumy-test",
+        "icons":[
+            {
+                "src":"maskable_icon.png",
+                "sizes": "120x120",
+                "type": "img/png",
+                "purpose":"any maskable"
+            },
+            {
+                "src":"6_192x192.png",
+                "sizes": "192x192",
+                "type": "img/png"
+            },
+            {
+                "src":"6_1_256x256.png",
+                "sizes": "256x256",
+                "type": "img/png"
+            },
+            {
+                "src":"6_2_384x384.png",
+                "sizes": "384x384",
+                "type": "img/png"
+            },
+            {
+                "src":"6_4_512x512.png",
+                "sizes": "512x512",
+                "type": "img/png"
+            }
+        ]
+
+        
+}
